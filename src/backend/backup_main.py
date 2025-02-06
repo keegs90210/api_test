@@ -13,3 +13,4 @@ app.add_middleware(
 @app.get("/hello")
 def hello():
     return {"message": "Hello from FastAPI!"}
+
