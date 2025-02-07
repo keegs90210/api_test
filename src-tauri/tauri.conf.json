@@ -34,6 +34,6 @@
       "icons/icon.ico"
     ]
   },
-  "mainBinaryName": "main"
+  "mainBinaryName": "lib"
 }
 
